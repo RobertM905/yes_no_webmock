@@ -1,24 +1,14 @@
-# README
+# Mocking an API using Webmock Example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Just a simple rails application that is using WebMock to mock an api 
 
-Things you may want to cover:
+`https://yesno.wtf/api`
 
-* Ruby version
+Why did I do this?:
 
-* System dependencies
+* Practice TTD
 
-* Configuration
+* Practice using Rspec test doubles
 
-* Database creation
+* Practice using WebMock Gem
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
